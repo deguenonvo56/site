@@ -209,3 +209,18 @@
   209  git checkout -b "deguenonvo56"
   210  history
   211  history >command.txt
+  212  git add .
+  213  git commit -m "Ajout du fichier command.txt"
+  214  git commit -m " Ajout du fichier command.txt"
+  215  git push -u origin deguenonvo56
+  216  git push -u origin "deguenonvo56"
+  217  git push
+  218  git push deguenonvo56
+  219  git push
+  220  git push deguenonvo56
+  221  clear
+  222  git init
+  223  git checkout -b "deguenonvo56"
+  224  history
+  225  history >command.txt
+  226  history > command.txt
