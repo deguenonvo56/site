@@ -1,0 +1,211 @@
+    1  git --version
+    2  git config --global user.name "deguenonvo56"
+    3  git config --global user.email "ernestodeguenonvo@gmail.com"
+    4  git config --global user.email 
+    5  git init
+    6  is -al
+    7  ls -al
+    8  git status
+    9  git status
+   10  git status
+   11  git status
+   12  git add
+   13  git addd
+   14  git add.
+   15  git remote c
+   16  git init
+   17  git checkout -b developpement web
+   18  git init
+   19  git checkout -b developpement-web
+   20  history
+   21  history >command.txt
+   22  git add .
+   23  git conmit -n "Ajout du fichier command.txt"
+   24  git log .
+   25  git init
+   26  git checkout -b deguenonvo56
+   27  history
+   28  history >command.txt
+   29  ls
+   30  git status
+   31  git commit -m "Ajout d'un fichier"
+   32  git add .
+   33  git commit -m "Ajout d'un fichier"
+   34  git remote add origin https://github.com/deguenonvo56/deguenonvo56.git
+   35  git push -u origin deguenonvo56
+   36  git init
+   37  git chekout-b"D-veloppement-Web"
+   38  git .checkout-b "D-veloppement-Web"
+   39  git checkout-b "D-veloppement-Web"
+   40  git checkout -b "D-veloppement-Web"
+   41  git history
+   42  history
+   43  history >con,and.txt
+   44  git add .
+   45  git conmit -m " Ajout du fichiercon,and.txt"
+   46  git log
+   47  git remote add origin https://github.com/AurelWama669/D-veloppement-Web.git
+   48  git push -u origin "D-veloppement-Web"
+   49  git push -u origin "D-veloppement-Web"
+   50  git push -u origin "deguenonvo56"
+   51  git init
+   52  git checkout-b "D-veloppement-Web"
+   53  git checkout -b "D-veloppement-Web"
+   54  history
+   55  history > conmand.txt
+   56  git add .
+   57  git conmit -m "Ajout du fichier conmand.txt"
+   58  clear
+   59  git init
+   60  git checkout -b "D-veloppement-Web"
+   61  git checkout -b "deguenonvo56"
+   62  history
+   63  history > conmand.txt
+   64  git add .
+   65  git conmit -m "Ajout du fichier conmand.txt
+   66  git conmit -m "Ajout du fichier conmand.txt"
+   67  git log
+   68  git remote add origin https://github.com/AurelWama669/D-veloppement-Web.git
+   69  git push -u origin "deguenonvo56"
+   70  git push -u origin deguenonvo56
+   71  git init
+   72  git checkout -b deguenonvo56
+   73  history
+   74  history >conmand.txt
+   75  ls
+   76  git status
+   77  git init
+   78  git checkout -b "deguenonvo56"
+   79  history
+   80  history > conmand.txt
+   81  git add .
+   82  git conmit -m "Ajout d'un fichier"
+   83  git conmit -m "Ajout d'un fichier conmand.txt"
+   84  git conmit -m "Ajout du fichier D-veloppement-web"
+   85  conmit -m Ajout d'un fichierconmand.txt"
+   86  git conmit -m "Ajout d'un fichierconmand.txt"
+   87  git conmit -m "Ajout du fichier"
+   88  git init
+   89  git checkout -b "deguenonvo56"
+   90  history
+   91  history > conmand.txt
+   92  git add .
+   93  git conmit -m "Ajout du fichier conmand.txt
+   94  git conmit -m "Ajout du fichier conmand.txt"
+   95  git conmit -m "Ajout d'un fichier"
+   96  git comnit -m "Ajout du fichier conmand.txt"
+   97  git init
+   98  git checkout -b "deguenonvo56"
+   99  history
+  100  history > conmand.txt
+  101  git add .
+  102  git conmit -m "ajout d'un fichier conmand.txt"
+  103  git conmit -m "Ajout d'un fichier conmand.txt"
+  104  git conmit -m "Ajout du fichier 
+  105     80  history > conmand.txt
+  106  git conmit -m "Ajout du fichier D-veloppement-web"
+  107  git init
+  108  git checkout -b "deguenonvo56"
+  109  history
+  110  history > conmand.txt
+  111  git add .
+  112  git conmit -m "Ajout du fichier conmand.txté
+  113  git conmit -m "Ajout du fichier conmand.txt"
+  114  git init
+  115  git checkout -b "D-veloppement-Web"
+  116  history
+  117  history >conmand.txt
+  118  ls
+  119  git status
+  120  git status
+  121  git conmit -m "Ajout d'un fichier"
+  122  git conmit -b "Ajout du fichier conmand.txt"
+  123  git conmit -m "Ajout d'un fichier"
+  124  git conmit -m "Ajout du fichier conmand.txt"
+  125  git add .
+  126  git conmit -m "Ajout d'un fichier"
+  127  git remote add origin https://github.com/AurelWama669/D-veloppement-Web.git
+  128  git push -u origin D-veloppement-Web
+  129  git push -u origin deguenonvo56
+  130  git init
+  131  git checkout -b "deguenonvo56"
+  132  history
+  133  history > conmand.txt
+  134  git add .
+  135  git conmit -m "Ajout du fichier D-veloppement-web"
+  136  git conmit -m "Ajout du fichier conmand.txt"
+  137  git log
+  138  git remote add origin https://github.com/AurelWama669/D-veloppement-Web.git
+  139  git init
+  140  git checkout -b "deguenonvo56"
+  141  history
+  142  history > command.txt
+  143  git add .
+  144  git add .
+  145  history >command.txt
+  146  git add .
+  147  git commit -m "Ajout du fichier command.txt"
+  148  git log
+  149  git commit -m "Ajout du fichier command.txt"clean
+  150  cleanr
+  151  clear
+  152  git init
+  153  git checkout -b "deguenonvo56"
+  154  history
+  155  history >command.txt
+  156  git add .
+  157  git add
+  158  git add.
+  159  clear
+  160  git init
+  161  clear
+  162  git add .
+  163  git init
+  164  git checkout -b "deguenonvo56"
+  165  history
+  166  history >command.txt
+  167  git add .
+  168  git commit -m "Ajout du fichier Command.txt"
+  169  git log
+  170  git remont add origin https://github.com/AurelWama669/D-veloppement-Web.git
+  171  git remote add origin https://github.com/AurelWama669/D-veloppement-Web.git
+  172  git push -u origin "deguenonvo56"
+  173  git init
+  174  history
+  175  git init
+  176  git chekout -b "deguenonvo56"
+  177  git checkout -b "deguenonvo56"
+  178  history
+  179  history > command.txt
+  180  git add .
+  181  git commit -m "ajout du fichier command.txt"
+  182  git commit -m "Ajout du fichier command.txt"
+  183  git commit -m "Ajout du fichier command.txt"
+  184  git add .
+  185  git add .
+  186  git add.
+  187  git add .
+  188  clear
+  189  git init
+  190  gicl
+  191  clear
+  192  ls
+  193  git remote add origin https://github.com/deguenonvo56/web.git
+  194  git status
+  195  git log
+  196  git push -u origin "deguenonvo56"
+  197  git push -u origin
+  198  git push -u origin deguenonvo56
+  199  git add .
+  200  git commit -m "Ajout de la base de donnée"
+  201  git push
+  202  git init
+  203  git checkout -b "deguenonvo56"
+  204  history
+  205  history > command.txt
+  206  history >command.txt
+  207  clear
+  208  git init
+  209  git checkout -b "deguenonvo56"
+  210  history
+  211  history >command.txt
